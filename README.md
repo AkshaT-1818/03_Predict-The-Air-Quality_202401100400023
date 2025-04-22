@@ -1,0 +1,1 @@
+Air quality is a critical factor affecting both environmental health and human well-being. Increasing urbanization, industrial activity, and vehicle emissions have led to a surge in air pollution levels across the globe. Monitoring and predicting air quality have thus become essential for public safety, policy-making, and environmental conservation.
